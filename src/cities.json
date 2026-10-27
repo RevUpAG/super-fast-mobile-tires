@@ -1,0 +1,14 @@
+[
+  {"slug": "boca-raton", "name": "Boca Raton",
+   "intro": "Stuck on I-95, Florida's Turnpike, Glades Road or Palmetto Park Road? We drive to you anywhere in Boca Raton: your driveway, your office lot or the shoulder. Average arrival is 30–45 minutes, day or night."},
+  {"slug": "delray-beach", "name": "Delray Beach",
+   "intro": "Flat on Atlantic Avenue, Linton Boulevard or I-95? We bring the tire shop to wherever you're stuck in Delray Beach, from downtown to the western neighborhoods. Same price at 2PM or 2AM."},
+  {"slug": "boynton-beach", "name": "Boynton Beach",
+   "intro": "Boynton Beach Boulevard, Congress Avenue, Gateway Boulevard or I-95: if your car won't roll, call us. We cover Boynton Beach 24/7 and most jobs are done in under 30 minutes once we arrive."},
+  {"slug": "west-palm-beach", "name": "West Palm Beach",
+   "intro": "Okeechobee Boulevard, Palm Beach Lakes Boulevard, I-95 or the Turnpike: wherever you're stuck in West Palm Beach, our van comes to you. Average arrival is 30–45 minutes, 24 hours a day."},
+  {"slug": "fort-lauderdale", "name": "Fort Lauderdale",
+   "intro": "I-95, I-595, Broward Boulevard or US-1: a flat in Fort Lauderdale doesn't have to ruin your day. We come to you anywhere in the city, 24/7, with flat pricing and no after-hours fee."},
+  {"slug": "coral-springs", "name": "Coral Springs",
+   "intro": "University Drive, Sample Road, Wiles Road or the Sawgrass Expressway: we cover all of Coral Springs around the clock. Tire change, flat repair, jump start or lockout, done where you're parked."}
+]
